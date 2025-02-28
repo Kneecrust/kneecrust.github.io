@@ -14,6 +14,6 @@ rsync -av --delete "$OBSIDIAN_NOTES/" "$HUGO_CONTENT/"
 cd /Users/rubendeschrevel/rxbxn
 
 # Commit and push changes
-git add content/8—Rxbxn
+git add content
 git commit -m "Sync Obsidian notes with Hugo" || echo "No changes to commit"
 git push origin master
