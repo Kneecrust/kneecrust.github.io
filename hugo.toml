@@ -1,14 +1,30 @@
 baseURL = 'https://rxbxn.be/'
 languageCode = 'en-us'
 title = 'Asssorted Writings'
+homeSubtitle = "Continuing Hermit's legacy to be minimal and fast theme"
 theme = "hermit-v2"
 
 [params]
    description = "Writing as speaking makes me sleepy."
    author = { name = "Kneecrust", email = "ruben@kneecrust.com" }
    enableGitInfo = true
-   dateformShort = "Jan 2, 2006"
-   dateformFull = "Monday, January 2, 2006"
+   dateform        = "Jan 2, 2006"
+   dateformShort   = "Jan 2"
+   dateformNum     = "2006-01-02"
+   dateformNumTime = "2006-01-02 15:04 -0700"
+
+   themeColor = "#494f5c"
+   accentColor = "#018472"
+
+   homeSubtitlePrinter = true
+   scrollToTop = true 
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
 
 [frontmatter]
    date = ["date", "publishDate", "lastmod"]
