@@ -1,0 +1,12 @@
+baseURL = 'https://rxbxn.be/'
+languageCode = 'en-us'
+title = 'Asssorted Writings'
+
+[params]
+ description = "Writing as speaking makes me sleepy."
+ author = "Kneecrust"
+ enableGitInfo = true
+
+[frontmatter]
+ date = ["date", "publishDate", "lastmod"]
+ lastmod = ["lastmod", ":git", "date", "publishDate"]
