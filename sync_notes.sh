@@ -2,7 +2,7 @@
 
 # Define paths
 OBSIDIAN_NOTES="/Users/rubendeschrevel/Library/Mobile Documents/iCloud~md~obsidian/Documents/ruben_mobile/8—Rxbxn"
-HUGO_CONTENT="/Users/rubendeschrevel/rxbxn/content"
+HUGO_CONTENT="/Users/rubendeschrevel/rxbxn/content/posts"
 
 # Ensure Hugo content directory exists
 mkdir -p "$HUGO_CONTENT"
