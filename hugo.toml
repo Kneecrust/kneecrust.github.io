@@ -7,6 +7,8 @@ theme = "hermit-v2"
    description = "Writing as speaking makes me sleepy."
    author = { name = "Kneecrust", email = "ruben@kneecrust.com" }
    enableGitInfo = true
+   dateformShort = "Jan 2, 2006"
+   dateformFull = "Monday, January 2, 2006"
 
 [frontmatter]
    date = ["date", "publishDate", "lastmod"]
