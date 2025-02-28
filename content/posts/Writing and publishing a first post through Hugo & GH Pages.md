@@ -5,10 +5,10 @@ description: Short post documenting my experience trying to set up Obsidian, Hug
 date: 2025-02-28 
 draft: false 
 tags: 
-	- Development
-	- Hugo
-	- Obsidian
-	- Github
+- Development
+- Hugo
+- Obsidian
+- Github
 pin: false
 scrolltotop: true
 toc: false
@@ -30,6 +30,6 @@ So far the wins of this project are:
 - Un-sidetrack yourself fast when falling for a visual rabbit hole.
 
 As for the learning opportunities, they are:
-	- As mentioned under the wins, visual rabbit holes are my nemesis; picking a theme for Hugo, making the `.toml` files show with color coding in VSCode, you name it. — Stay alert and leave the visual finicking for later. 
-	- RTFM — Read The Fucking Manual. It's a good thing to get to action fast, but a bit _more_ doc reading wouldn't hurt.
+- As mentioned under the wins, visual rabbit holes are my nemesis; picking a theme for Hugo, making the `.toml` files show with color coding in VSCode, you name it. — Stay alert and leave the visual finicking for later. 
+- RTFM — Read The Fucking Manual. It's a good thing to get to action fast, but a bit _more_ doc reading wouldn't hurt.
 
