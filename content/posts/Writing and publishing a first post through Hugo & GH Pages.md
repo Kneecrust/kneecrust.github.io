@@ -1,12 +1,9 @@
 ---
 title: Writing and publishing a first post through Hugo & GH Pages
 slug: writing-hugo-ghpages
+date: 2025-03-01T12:20:32 +01:00
 draft: false 
 tags: 
-- Development
-- Hugo
-- Obsidian
-- Github
 pin: false
 scrolltotop: true
 toc: false
