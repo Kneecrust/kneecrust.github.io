@@ -8,12 +8,11 @@
     <language>en-us</language>
     <managingEditor>ruben@kneecrust.com (Kneecrust)</managingEditor>
     <webMaster>ruben@kneecrust.com (Kneecrust)</webMaster>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing and publishing a first post through Hugo &amp; GH Pages</title>
       <link>http://localhost:1313/posts/writing-hugo-ghpages/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><author>ruben@kneecrust.com (Kneecrust)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ruben@kneecrust.com (Kneecrust)</author>
       <guid>http://localhost:1313/posts/writing-hugo-ghpages/</guid>
       <description>&lt;p&gt;The idea was to have an easy way to post short writings.&#xA;I was already using Obsidian, I already had a domain, I already had a Github account, and I recently learned about Hugo in one of &lt;a href=&#34;https://www.youtube.com/@NetworkChuck&#34;&gt;NetworkChuck&lt;/a&gt;&amp;rsquo;s videos.&lt;/p&gt;&#xA;&lt;p&gt;I set out to try and make the process for publishing my written out thoughts as smooth and frictionless as possible; because friction is &lt;em&gt;always&lt;/em&gt; the problem, right.&lt;/p&gt;&#xA;&lt;p&gt;As one does with sidequests, letting them become the actual main quest, it took me some considerable stumbling around before I worked up the courage to install Hugo, initialize a new repo, and try and get a test post published on it.&#xA;Naturally, the first and most important task was picking a theme.&lt;/p&gt;</description>
     </item>
