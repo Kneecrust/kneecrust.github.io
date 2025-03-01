@@ -1,8 +1,6 @@
 ---
 title: Writing and publishing a first post through Hugo & GH Pages
 slug: writing-hugo-ghpages
-description: Short post documenting my experience setting up a Hugo site on GH Pages.
-date: 2025-02-28 
 draft: false 
 tags: 
 - Development
