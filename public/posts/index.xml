@@ -13,14 +13,6 @@
 		
 		
 		<item>
-			<title>Test</title>
-			<link>http://localhost:1313/posts/testing-post/</link>
-			<pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><author>Kneecrust</author><guid>http://localhost:1313/posts/testing-post/</guid>
-			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Testing &amp; Adjusted + Frontmatter + Testing Hugo again on GH Actions with some more troubleshooting</p>
-]]></content>
-		</item>
-		
-		<item>
 			<title>Writing and publishing a first post through Hugo &amp; GH Pages</title>
 			<link>http://localhost:1313/posts/writing-hugo-ghpages/</link>
 			<pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><author>Kneecrust</author><guid>http://localhost:1313/posts/writing-hugo-ghpages/</guid>

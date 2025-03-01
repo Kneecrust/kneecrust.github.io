@@ -11,13 +11,6 @@
     <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/testing-post/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><author>ruben@kneecrust.com (Kneecrust)</author>
-      <guid>http://localhost:1313/posts/testing-post/</guid>
-      <description>&lt;p&gt;Testing &amp;amp; Adjusted + Frontmatter + Testing Hugo again on GH Actions with some more troubleshooting&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Writing and publishing a first post through Hugo &amp; GH Pages</title>
       <link>http://localhost:1313/posts/writing-hugo-ghpages/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><author>ruben@kneecrust.com (Kneecrust)</author>
