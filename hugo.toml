@@ -1,11 +1,12 @@
 baseURL = 'https://rxbxn.be/'
 languageCode = 'en-us'
-title = "If not for curiosity's sake, then what?"
-homeSubtitle = "Writing as speaking makes me sleepy."
+title = "What else but Curiosity"
+
 theme = "hermit-v2"
 
 [params]
-   description = "Writing as speaking makes me sleepy."
+   homeSubtitle = "Written because talking was too much."
+   description = "Written because talking was too much."
    author = { name = "Kneecrust", email = "ruben@kneecrust.com" }
    enableGitInfo = true
    dateform        = "Jan 2, 2006"
@@ -13,12 +14,12 @@ theme = "hermit-v2"
    dateformNum     = "2006-01-02"
    dateformNumTime = "2006-01-02 15:04 -0700"
 
-   themeColor = "#494f5c"
-   accentColor = "#018472"
+   themeColor = "#403c37"
+   accentColor = "#ab3d2e"
 
    homeSubtitlePrinter = true
    scrollToTop = true 
-   footerHideThemeName = false
+   footerHideThemeName = true
 
 [menu]
 

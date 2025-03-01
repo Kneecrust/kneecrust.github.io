@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Posts on What else but Curiosity</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on What else but Curiosity</description>
+		<generator>Hugo -- 0.145.0</generator>
+		<language>en-us</language>
+		<managingEditor>ruben@kneecrust.com (Kneecrust)</managingEditor>
+		<webMaster>ruben@kneecrust.com (Kneecrust)</webMaster>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+		<item>
+			<title>Test</title>
+			<link>http://localhost:1313/posts/testing-post/</link>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><author>Kneecrust</author><guid>http://localhost:1313/posts/testing-post/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Testing &amp; Adjusted + Frontmatter + Testing Hugo again on GH Actions with some more troubleshooting</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Writing and publishing a first post through Hugo &amp; GH Pages</title>
+			<link>http://localhost:1313/posts/writing-hugo-ghpages/</link>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><author>Kneecrust</author><guid>http://localhost:1313/posts/writing-hugo-ghpages/</guid>
+			<description><![CDATA[Short post documenting my experience trying to set up Obsidian, Hugo and Github Pages to publish notes to my own domain, rxbxn.be]]></description><content type="text/html" mode="escaped"><![CDATA[<p>The idea was to have an easy way to post short writings.
+I was already using Obsidian, I already had a domain, I already had a Github account, and I recently learned about Hugo in one of <a href="https://www.youtube.com/@NetworkChuck">NetworkChuck</a>&rsquo;s videos.</p>
+<p>I set out to try and make the process for publishing my written out thoughts as smooth and frictionless as possible; because friction is <em>always</em> the problem, right.</p>
+<p>As one does with sidequests, letting them become the actual main quest, it took me some considerable stumbling around before I worked up the courage to install Hugo, initialize a new repo, and try and get a test post published on it.
+Naturally, the first and most important task was picking a theme.</p>
+<p>What I <em>should&rsquo;ve</em> done though would be to read through the Hugo docs a bit more and maybe also the example <code>.toml</code> provided in the theme I picked. <em>(the one thing I did right from the get go I think)</em>
+And also the Github Pages documentation where it very clearly and unambiguously states how to name your repo when initializing it. <em><strong>hint hint</strong></em></p>
+<p>So far the wins of this project are:</p>
+<ul>
+<li>Get a hugo site live on my domain through Github.</li>
+<li>Wrangle git and get some basic commands in my working memory.</li>
+<li>Un-sidetrack yourself fast when falling for a visual rabbit hole.</li>
+</ul>
+<p>As for the learning opportunities, they are:</p>
+<ul>
+<li>As mentioned under the wins, visual rabbit holes are my nemesis; picking a theme for Hugo, making the <code>.toml</code> files show with color coding in VSCode, you name it. — Stay alert and leave the visual finicking for later.</li>
+<li>RTFM — Read The Fucking Manual. It&rsquo;s a good thing to get to action fast, but a bit <em>more</em> doc reading wouldn&rsquo;t hurt.</li>
+</ul>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
