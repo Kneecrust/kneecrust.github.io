@@ -31,4 +31,3 @@ theme = "hermit-v2"
 [frontmatter]
    date = ["date", "publishDate", "lastmod"]
    lastmod = ["lastmod", ":git", "date", "publishDate"]
-   custom_css = ["custom_css/iosevka.css"]
