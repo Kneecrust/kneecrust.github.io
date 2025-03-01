@@ -1,7 +1,7 @@
 ---
 title: Writing and publishing a first post through Hugo & GH Pages
 slug: writing-hugo-ghpages
-description: Short post documenting my experience trying to set up Obsidian, Hugo and Github Pages to publish notes to my own domain, rxbxn.be
+description: Short post documenting my experience setting up a Hugo site on GH Pages.
 date: 2025-02-28 
 draft: false 
 tags: 
