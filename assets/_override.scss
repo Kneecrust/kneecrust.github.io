@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Iosevka-medium';
+    src: url('/fonts/Iosevka-Medium.woff2') format('woff2');
+    font-weight: medium;
+    font-style: medium;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Iosevka-light';
+    src: url('/fonts/Iosevka-Light.woff2') format('woff2');
+    font-weight: light;
+    font-style: light;
+    font-display: swap;
+  }
+  
+  
+  body,
+  button,
+  input,
+  select,
+  textarea,
+  a {
+    color: $text;
+  }
+  body,
+  button,
+  input,
+  select,
+  textarea {
+    font-family: 'Iosevka-light';
+  }
+  
